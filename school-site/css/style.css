@@ -78,8 +78,14 @@ header, footer {
 
 
 /* Imported Typfaces */
-
-
+@font-face {
+    font-family: font1;
+    src: url(josefinslab-regular.ttf);
+}
+@font-face {
+    font-family: font2;
+    src: url(montserrat-regular.ttf);
+}
 
 
 
