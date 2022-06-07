@@ -97,12 +97,12 @@ h4 {
     text-align:center;
     padding-bottom: 1.125;
     font-weight: normal;
-    span
-    [padding-top: 0; 
+    span[*]
+        {padding-top: 0; 
     padding-bottom: 0;
     padding-left: .5rem
     padding-right: .5rem;
-    ]
+        }
 }
 
 h5 {
