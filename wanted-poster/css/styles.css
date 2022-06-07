@@ -121,6 +121,9 @@ h5 {
 /* Section & Paragraph */
 section {
     margin-top: .5rem;
+    letter-spacing: .5rem;
+    text-align:center;
+    font-weight: normal;
 }
 p {
     font-size:1rem;
@@ -128,11 +131,16 @@ p {
     margin-bottom: 1rem;
     margin-left: auto;
     margin-right: auto;
+    letter-spacing: .5rem;
+    color: black;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    font-family:'Alfa Slab One', Garamond, serif;
     text-align:left;
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 1rem;
     padding-right: 1rem;
+    font-weight: normal;
     width: 90%;
 }
 
