@@ -80,31 +80,66 @@ header, footer {
 /* Imported Typfaces */
 @font-face {
     font-family: font1;
-    src: url(josefinslab-regular.ttf);
+    src: url(../fonts/josefinslab-regular.ttf);
 }
 @font-face {
     font-family: font2;
-    src: url(montserrat-regular.ttf);
+    src: url(../fonts/montserrat-regular.ttf);
 }
 
 
 
 /* Typography Styles */
-
-
-
-
+h1 {
+    letter-spacing: 0.125rem;
+    font-family: font1;
+    src: url(../fonts/josefinslab-regular.ttf);
+    font-size: 3.75rem;
+    margin: 1.125rem;
+}
+h2 {
+    letter-spacing: 0.125rem;
+    font-family: font1;
+    src: url(../fonts/josefinslab-regular.ttf);
+    font-size: 1.5rem;
+}
+p {
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    word-spacing: 0.125rem;
+}
+figcaption {
+    font-size: 0.75rem;
+    margin-bottom: 2rem;
+}
 
 
 /* Link Styling */
+link {
+    outline: none;
+}
+a:link {
+    color: #33658A;
 
-
-
-
+}
+a:visited {
+    color: #33658A;
+}
+a:focus {
+underline: none;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+}
 
 
 /* List Styling */
-
+li {
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    word-spacing: 0.125rem;
+}
 
 
 
