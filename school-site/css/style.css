@@ -137,13 +137,29 @@ a:hover {
 
 
 /* List Styling */
-li {
+ul {
     font-size: 0.75rem;
     letter-spacing: 0.03125rem;
     word-spacing: 0.125rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: square;
 }
-
-
+ol {
+    font-size: 0.75rem;
+    letter-spacing: 0.03125rem;
+    word-spacing: 0.125rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 0;
+    margin-right: 0;
+    list-style-type: lower-alpha;
+}
+.long-list :hover {
+text-transform: uppercase;
+}
 
 
 
