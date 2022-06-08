@@ -115,7 +115,7 @@ figcaption {
 
 
 /* Link Styling */
-link {
+a {
     outline: none;
 }
 a:link {
