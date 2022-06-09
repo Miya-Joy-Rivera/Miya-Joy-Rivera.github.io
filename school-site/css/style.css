@@ -177,6 +177,7 @@ nav a{
     margin-bottom: 1.5rem;
     border: solid 0.0625rem #33658A;
     line-height: 3;
+    width: 100%;
 }
 nav a:focus,
 nav a:hover{
