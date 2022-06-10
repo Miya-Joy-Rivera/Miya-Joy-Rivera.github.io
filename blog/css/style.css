@@ -64,9 +64,9 @@ span{
     background-color: red;
     color: white;
 }
-image{
+aticle-image{
     float: left;
-    padding: 0rem;
+    padding: 0rem 1.25rem 1.25rem 0rem;
 }
 nav a{
     display: inline;
