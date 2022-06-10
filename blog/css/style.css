@@ -106,14 +106,10 @@ p{
     color: gray;
 }
 aside{
-    display:inline-flex;
+    display:inline-table;
     border-left: 1rem;
-    align-self: left;
 }
 footer{
     font-size: small;
-}
-footer:first-child{
-    text-align: left;
 }
 
