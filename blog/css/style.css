@@ -49,8 +49,8 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 body{
     padding:1rem;
-    min-width:30rem;
-    max-width:60rem;
+    min-width:20rem;
+    max-width:70rem;
     margin:0 auto;
     text-align: justify;
 }
@@ -108,6 +108,7 @@ p{
 aside{
     display:inline-flex;
     border-left: 1rem;
+    align-self: left;
 }
 footer{
     font-size: small;
