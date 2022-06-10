@@ -64,7 +64,7 @@ span{
     color: white;
 }
 nav a{
-    display:inline;
+    display: inline-flex;
     font-size: 1.125rem;
     margin-bottom: 1.5rem;
     border: solid 0.0625rem black;
