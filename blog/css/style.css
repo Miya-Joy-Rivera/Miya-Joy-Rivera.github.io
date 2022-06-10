@@ -64,8 +64,9 @@ span{
     background-color: red;
     color: white;
 }
-.left{float: left;
-padding: 0rem;
+image{
+    float: left;
+    padding: 0rem;
 }
 nav a{
     display: inline;
