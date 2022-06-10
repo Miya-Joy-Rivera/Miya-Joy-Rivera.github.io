@@ -63,13 +63,13 @@ span{
     background-color: red;
     color: white;
 }
-nav{
+nav a{
     color: blue;
 }
-nav:hover{
-    background-color: antiquewhite;
+nav a:hover{
+    background-color: cadetblue;
 }
-nav:active{
+nav a:active{
     text-decoration: line-through;
 }
 h2{
