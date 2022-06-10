@@ -47,6 +47,12 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+body{
+    padding:1rem;
+    min-width:39rem;
+    max-width:50rem;
+    margin:0 auto;
+}
 h1{
     text-align: center;
     text-transform:rotate 45deg;
