@@ -106,8 +106,13 @@ p{
     color: gray;
 }
 aside{
-    display:inline-table;
-    border-left: 1rem;
+    width: 40%;
+    padding-left: .5rem;
+    margin-left: .5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px black;
+    font-style: italic;
+    color: black;
 }
 footer{
     font-size: small;
