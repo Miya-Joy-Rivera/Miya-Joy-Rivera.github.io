@@ -64,6 +64,9 @@ span{
     background-color: red;
     color: white;
 }
+.left{float: left;
+padding: 0rem;
+}
 nav a{
     display: inline;
     font-size: 1.125rem;
