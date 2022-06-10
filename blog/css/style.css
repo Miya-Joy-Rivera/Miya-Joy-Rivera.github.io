@@ -72,6 +72,7 @@ nav a{
     width: 100%;
     color: black;
     text-decoration: none;
+    word-spacing: large;
     background-color: none;
     text-align: center;
 }
