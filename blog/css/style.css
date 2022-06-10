@@ -64,9 +64,10 @@ span{
     background-color: red;
     color: white;
 }
-img article-image{
+img{
     float: left;
     padding: 0rem 1.25rem 1.25rem 0rem;
+    size: 5rem;
 }
 nav a{
     display: inline;
