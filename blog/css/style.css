@@ -64,11 +64,11 @@ span{
     color: white;
 }
 nav a{
-    display: inline-block;
-    color: blue;
+    display:inline;
+    color: gray;
     width: 100%;
     text-decoration: none;
-    background-color: aqua;
+    background-color: none;
 }
 nav a:hover{
     background-color: cadetblue;
