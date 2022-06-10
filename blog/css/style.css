@@ -65,8 +65,12 @@ span{
 }
 nav a{
     display:inline;
-    color: gray;
+    font-size: 1.125rem;
+    margin-bottom: 1.5rem;
+    border: solid 0.0625rem black;
+    line-height: 3;
     width: 100%;
+    color: darkgray;
     text-decoration: none;
     background-color: none;
 }
