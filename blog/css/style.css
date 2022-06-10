@@ -49,6 +49,8 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 body{
     padding:1rem;
+    min-width: 30rem;
+    max-width: 60rem;
     margin:0;
 }
 h1{
