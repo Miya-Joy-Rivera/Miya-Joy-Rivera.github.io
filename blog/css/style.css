@@ -55,11 +55,27 @@ body{
 }
 h1{
     text-align: center;
-    text-transform:rotate 45deg;
+    text-transform: rotate 45deg;
     color: black;
     font-weight: bold;
 }
 span{
     background-color: red;
     color: white;
+}
+nav{
+    color: blue;
+}
+nav:hover{
+    background-color: antiquewhite;
+}
+nav:active{
+    text-decoration: line-through;
+}
+h2{
+    font-size: larger;
+}
+h3{
+    font-size: normal;
+
 }
