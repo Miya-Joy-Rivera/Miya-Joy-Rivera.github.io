@@ -66,8 +66,8 @@ span{
 }
 img{
     float: left;
+    width: 8rem;
     padding: 0rem 1.25rem 1.25rem 0rem;
-    width: rem;
 }
 nav a{
     display: inline;
