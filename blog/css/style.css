@@ -67,7 +67,7 @@ span{
 img{
     float: left;
     padding: 0rem 1.25rem 1.25rem 0rem;
-    width: 6rem;
+    width: rem;
 }
 nav a{
     display: inline;
@@ -102,9 +102,8 @@ p{
     color: gray;
 }
 aside{
-    display: inline-block;
+    display:inline-flex;
     border-left: 1rem;
-    float: right;
 }
 footer{
     text-align: left;
