@@ -49,8 +49,8 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 body{
     padding:1rem;
-    min-width: 30rem;
-    max-width: 60rem;
+    min-width:39rem;
+    max-width:50rem;
     margin:0;
 }
 h1{
@@ -70,7 +70,7 @@ nav a{
     border: solid 0.0625rem black;
     line-height: 3;
     width: 100%;
-    word-spacing: 5rem;
+    word-spacing: 20rem;
     color: black;
     text-decoration: none;
     background-color: none;
