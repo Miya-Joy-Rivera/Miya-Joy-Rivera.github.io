@@ -104,4 +104,8 @@ p{
 aside{
     display: inline-block;
     border-left: 1rem;
+    float: right;
+}
+footer{
+    text-align: left;
 }
