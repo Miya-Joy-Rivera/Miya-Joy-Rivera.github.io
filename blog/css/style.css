@@ -73,8 +73,10 @@ nav a{
     color: black;
     text-decoration: none;
     background-color: none;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
     text-align: center;
 }
 nav a:hover{
@@ -88,5 +90,12 @@ h2{
 }
 h3{
     font-size: normal;
-
+}
+p{
+    font-size: normal;
+    color: gray;
+}
+aside{
+    display: inline-block;
+    border-left: 1rem;
 }
