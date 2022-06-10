@@ -49,9 +49,7 @@
 /* ------ START WRITING YOUR CODE BELOW ------ */
 body{
     padding:1rem;
-    min-width:39rem;
-    max-width:50rem;
-    margin:0 auto;
+    margin:0;
 }
 h1{
     text-align: center;
@@ -70,12 +68,12 @@ nav a{
     border: solid 0.0625rem black;
     line-height: 3;
     width: 100%;
-    color: darkgray;
+    color: black;
     text-decoration: none;
     background-color: none;
 }
 nav a:hover{
-    background-color: cadetblue;
+    background-color:azure;
 }
 nav a:active{
     text-decoration: line-through;
