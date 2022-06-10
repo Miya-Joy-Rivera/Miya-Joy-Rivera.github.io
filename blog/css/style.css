@@ -110,5 +110,9 @@ aside{
     border-left: 1rem;
 }
 footer{
+    font-size: small;
+}
+footer:first-child{
     text-align: left;
 }
+
